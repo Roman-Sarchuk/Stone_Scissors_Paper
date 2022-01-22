@@ -1,2 +1,2 @@
 # Stone_Scissors_Paper
-game / game _ua / game_eng
+A simple console game!
